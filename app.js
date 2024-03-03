@@ -451,3 +451,7 @@ var appController = (function(Uicntrl, budgetCtrl) {
 })(uiController, budgetController);
 
 appController.init();
+
+
+
+hi
